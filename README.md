@@ -31,4 +31,4 @@ The maze is located at https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=
 
 In my ongoing quest to refresh my Python skills and stay sharp, I'm working my way through the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp".  Shout out to Dr. Angela Yu and Udemy.  
 
-Another shout out to André Roberge and any others who are in charge of "Reeborg's world" at https://reeborg.ca/index_en.html; it's a fun little arena to practice in with Python.
+Another shout out to André Roberge and any others who are in charge of "Reeborg's World" at https://reeborg.ca/index_en.html; it's a fun little arena to practice in with Python.
