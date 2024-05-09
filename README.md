@@ -12,7 +12,7 @@ The maze is located at https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=
 
 ## Version History 
 
-**Version 0.1**  
+**Version 1.0**  
 *5/4/2024*  
 * This program is finished.
 * The instructions should be enough to get the robot out of the maze regardless of starting position.
